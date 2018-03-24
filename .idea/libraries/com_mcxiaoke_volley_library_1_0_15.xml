@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.mcxiaoke.volley:library-1.0.15">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/addec648a9174cbe1d560e05aeb6a8c1a3dac891/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/addec648a9174cbe1d560e05aeb6a8c1a3dac891/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.15/3797c1c90ff48ddb1572fe757a86383e1bbb3519/library-1.0.15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
